@@ -1,0 +1,3 @@
+{
+ mapbox_api: "pk.eyJ1IjoianVzdGlubXRob21hcyIsImEiOiJjazVnMnc4ODkwM295M25waDFkc3ZuMmVmIn0.pO20yJh7W8BoL8awYzUE0g"
+}
